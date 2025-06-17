@@ -1,4 +1,4 @@
-# axiombolt[.]trade - DO NOT ACCESS THIS SITE, IT IS MALICIOUS
+# axiombolt.trade - DO NOT ACCESS THIS SITE, IT IS MALICIOUS
 
 ## Credential Stealer website
 
